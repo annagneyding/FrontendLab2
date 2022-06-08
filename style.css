@@ -336,4 +336,23 @@ body{
     opacity: 0;
 }
 
+.radioButton {
+    color: black;
+    font-size: 1.25rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: 0.4s;
+    
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) */
+
+    margin-bottom: 1rem;
+    margin-top: 1px;
+    text-align: center;
+    
+}
+
 
